@@ -1,0 +1,24 @@
+body {
+	background: url('flower.jpg');
+}
+.button {
+	color: #770e58
+    height: 10000px;
+    width: 50%;
+	text-align: center;
+	font-size: 5000000;
+	text shadow: 3px 2px purple;
+	font-style:font-family: "Times New Roman", Times, serif;
+}
+#message {
+    height: 10000px;
+    width: 50%;
+	text-align: center;
+	font-size: 100000000;
+	text shadow: 3px 2px purple;
+	font-style:font-family: "Times New Roman", Times, serif;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
